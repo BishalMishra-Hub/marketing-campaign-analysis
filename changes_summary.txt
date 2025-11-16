@@ -1,0 +1,10 @@
+
+Task 1 – Data Cleaning & Preprocessing Summary
+
+1. Removed duplicate rows.
+2. Filled missing numeric values using median.
+3. Filled missing categorical values using mode.
+4. Cleaned text fields.
+5. Converted date columns to datetime.
+6. Created new features: age, total_spent, total_children.
+7. Renamed columns consistently.
