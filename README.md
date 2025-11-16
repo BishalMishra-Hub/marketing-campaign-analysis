@@ -238,7 +238,7 @@ Click the Colab badge at the top for direct execution.
 **Bishal Kumar Mishra**  
 Data Analyst | Machine Learning Enthusiast  
 
-📌 GitHub:   
+📌 GitHub:  https://github.com/BishalMishra-Hub
 📌 LinkedIn: https://www.linkedin.com/in/bishal-kumar-mishra-5359a9362/
 
 ---
