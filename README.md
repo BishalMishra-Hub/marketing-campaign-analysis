@@ -1,7 +1,7 @@
-<!-- PROJECT BANNER -->
-<p align="center">
-  <img src="https://i.ibb.co/vjsqBqC/marketing-banner-blue.png" alt="Project Banner" width="100%">
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=200&section=header&text=Marketing%20Campaign%20Data%20Analysis&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+
 
 <h1 align="center">📊 Marketing Campaign Analysis</h1>
 <p align="center">Data Cleaning • EDA • Feature Engineering • Machine Learning</p>
